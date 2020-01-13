@@ -1,5 +1,3 @@
-/* #2892d7, #1b4353, #2a628f */
-
 body {
         background-color: #2892d7;
         color: white;
@@ -28,7 +26,6 @@ body {
 
 .headline {
         text-align: center;
-        /*text-shadow: 2px 2px #1b4353;*/
 }
 
 .cell img {
@@ -41,17 +38,11 @@ body {
 
 a {
         color: white;
-        padding: 5px 10px;
         text-shadow: 2px 2px #1b4353;
 }
 
 p a {
         font-weight: bold;
-}
-
-.inline-link {
-        padding-left: 0px;
-        padding-right: 0px;
 }
 
 .cell p {
